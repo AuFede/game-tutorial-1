@@ -22,6 +22,5 @@ Reacción a Sprite Attacks.✔
 Recibir animación de ataques.✔
 Animación de muerte.✔
 Diseño de Interfaz y Animación.✔
-Pushing Live.
+Pushing Live: Netlify.✔
 
-// https://www.youtube.com/watch?v=vyqbNFMDRGQ min: 3:49:55
